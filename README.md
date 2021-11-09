@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roliveiracardoso
-- 👀 I’m interested in Cloud and Kubernetes.
-- 🌱 I’m currently learning VNF.
+- 👀 I’m interested in Cloud, Kubernetes, IOT, BI, Multi-Cloud... Technology!!
+- 🌱 I’m currently learning VNF best practices.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cardoso.mcse@gmail.com
 
